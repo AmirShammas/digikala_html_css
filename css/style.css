@@ -45,3 +45,51 @@ a{
     text-decoration: none;
     color: initial;
 }
+
+#sabadekharid{
+    background-color: #53b357;
+    width: 190px;
+    height:40px;
+    float: right;
+    margin-right: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+#bakhshe2 #shopcart{
+    float: right;
+    background-color: #3fff2f;
+    /* border-radius: 0 5px 5px 0; */
+    width: 22%;
+    height: inherit;
+}
+
+#bakhshe2 #shopcart img{
+	width: 31px;
+	height: 31px;
+	margin-left: 5px;
+	margin-top: 4px;
+}
+
+#matn{
+    font-family: tahoma;
+    font-size: 15px;
+    color: #fff;
+    /* font-weight: bold; */
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+#tedad{
+    float: right;
+    background-color: #3fff2f;
+    border-radius: 100%;
+    color: #fff;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    margin-right: 12px;
+    margin-top: 10px;
+}
