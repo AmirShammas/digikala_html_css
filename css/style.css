@@ -93,3 +93,28 @@ a{
     margin-right: 12px;
     margin-top: 10px;
 }
+
+#bakhshe2 input{
+    float: right;
+    width: 465px;
+    height: 34px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-right: 10px;
+    direction: rtl;
+    border-radius: 0 5px 5px 0;
+
+}
+
+#search #button {
+	float: right;
+    width: 39px;
+    height: 39px;
+	margin-top: 6px;
+}
+
+#search #button img{
+    width: 39px;
+    height: 39px;
+    border-radius: 5px 0 0 5px;
+}
