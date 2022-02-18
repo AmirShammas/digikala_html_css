@@ -1,3 +1,13 @@
+#top-banner{
+    width: 100%;
+    height: 35px;
+    background-image: url(/img/b43481f5-cf66-4e2d-a5cc-1dd1bc73dfb9.jpg);
+}
+
+#top-banner span{
+    margin-left: 43%;
+}
+
 #header{
     background-color: rgb(255, 0, 0);
     width: 100%;
