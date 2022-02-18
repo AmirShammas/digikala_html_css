@@ -46,6 +46,10 @@ a{
     color: initial;
 }
 
+a:hover{
+    color: red;
+}
+
 #sabadekharid{
     background-color: #53b357;
     width: 190px;
@@ -55,6 +59,11 @@ a{
     margin-top: 5px;
     border-radius: 5px;
     overflow: hidden;
+    cursor: pointer;
+}
+
+#sabadekharid:hover{
+    background-color: #46A349;
 }
 
 #bakhshe2 #shopcart{
@@ -103,18 +112,23 @@ a{
     margin-right: 10px;
     direction: rtl;
     border-radius: 0 5px 5px 0;
-
 }
 
-#search #button {
-	float: right;
+#search #button{
+	background-color: #8A8F9C;
+    float: right;
     width: 39px;
     height: 39px;
 	margin-top: 6px;
+    cursor: pointer;
+    border-radius: 5px 0 0 5px;
+}
+
+#search #button:hover{
+    background-color: #7F7B7B;
 }
 
 #search #button img{
     width: 39px;
     height: 39px;
-    border-radius: 5px 0 0 5px;
 }
