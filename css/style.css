@@ -244,11 +244,36 @@ direction: rtl;
     background-color: blueviolet;
     float: right;
     margin-top: 5px;
+    border-radius: 3px;
+    position: relative;
 }
 
 #r3-1170 #right a #video img{
     width: 100%;
     height: 160px;
+}
+
+#r3-1170 #right a #video #player{
+    width: 65px;
+    height: 65px;
+    background-color: #ccc;
+    opacity: 0.7;
+    float: right;
+    position: absolute;
+    left: 38%;
+    top: 29%;
+    border-radius: 100%;
+}
+
+#r3-1170 #right a #video #player:hover{
+    opacity: 1;
+}
+
+#r3-1170 #right a #video #player .play{
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+    margin-top: 23px;
 }
 
 #r3-1170 #left{
