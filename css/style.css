@@ -276,6 +276,24 @@ direction: rtl;
     margin-top: 23px;
 }
 
+#r3-1170 #right a #video #timer{
+    width: 35px;
+    height: 20px;
+    background-color: #000;
+    opacity: 0.6;
+    float: right;
+    position: absolute;
+    top: 135px;
+    right: 17px;
+    border-radius: 5px;
+}
+
+#r3-1170 #right a #video #timer #timer-adad{
+    font-family: tahoma;
+    font-size: 14px;
+    color: #fff;
+}
+
 #r3-1170 #left{
     float: left;
     width: 76%;
