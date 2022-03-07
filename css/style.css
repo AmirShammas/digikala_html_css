@@ -5,7 +5,8 @@
 }
 
 #top-banner span{
-    margin-left: 43%;
+    text-align: center;
+    display: block;
 }
 
 #header{
@@ -299,6 +300,37 @@ direction: rtl;
 
 #r3-1170 #right a .h260{
     height: 260px !important;
+}
+
+#r3-1170 #right #jadidtarin_dasteha{
+    width: 100%;
+    height: 320px;
+    background-color: blue;
+    float: right;
+}
+
+#r3-1170 #right #jadidtarin_dasteha .j_d{
+    width: 100%;
+    height: 75px;
+    background-color: goldenrod;
+    float: right;
+    margin-top: 5px;
+}
+
+#r3-1170 #right #jadidtarin_dasteha #j_d_titr{
+    background-image: url(/img/icons pattern.jpg);
+
+}
+
+#r3-1170 #right #jadidtarin_dasteha #j_d_titr #j_d_titr_matn{
+    display: inline-block;
+    padding-right: 10px;
+    font-family: tahoma;
+    line-height: 10px;
+}
+
+#r3-1170 #right #jadidtarin_dasteha #j_d_titr #j_d_titr_navar{
+    float: left;
 }
 
 #r3-1170 #left{
